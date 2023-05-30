@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.sigasi.hdt.shared.librarymapping.model:LibraryMappings xmlns:com.sigasi.hdt.shared.librarymapping.model="com.sigasi.hdt.vhdl.scoping.librarymapping" Version="2">
+  <Mappings Location="Common Libraries/IEEE" Library="ieee"/>
+  <Mappings Location="Common Libraries/IEEE Synopsys" Library="ieee"/>
+  <Mappings Location="Common Libraries" Library="not mapped"/>
+  <Mappings Location="RISC-V.cache/ip" Library="not mapped"/>
+  <Mappings Location="RISC-V.gen/sources_1/ip" Library="not mapped"/>
+  <Mappings Location="RISC-V.ip_user_files" Library="not mapped"/>
+  <Mappings Location="RISC-V.srcs/sources_1/ip" Library="not mapped"/>
+  <Mappings Location="Common Libraries/STD" Library="std"/>
+  <Mappings Location="" Library="work"/>
+</com.sigasi.hdt.shared.librarymapping.model:LibraryMappings>

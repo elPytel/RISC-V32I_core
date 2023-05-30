@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Mar 30 10:08:47 2023
+# Process ID: 4424
+# Current directory: c:/work/2022/BP/Korner/RISC-V/RISC-V
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent37764 C:\work\2022\BP\Korner\RISC-V\RISC-V\RISC-V.xpr
+# Log file: c:/work/2022/BP/Korner/RISC-V/RISC-V/vivado.log
+# Journal file: c:/work/2022/BP/Korner/RISC-V/RISC-V\vivado.jou
+#-----------------------------------------------------------
+start_gui

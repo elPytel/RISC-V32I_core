@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="340px"
+   height="365px"
+   viewBox="-0.5 -0.5 340 365"
+   content="&lt;mxfile modified=&quot;2019-07-05T10:48:46.556Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36&quot; etag=&quot;CDJbTErJMdCDeZaMBvQX&quot; version=&quot;10.8.9&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;90a13364-a465-7bf4-72fc-28e22215d7a0&quot;&gt;3Vhbb5swFP41SNtDK26G5DEhXbfuFilK2+1lcsEBN4CRcW779TNgBxOTrq0SqVsiRT6f7XPs73z4mBhOkG2vKSySryRCqWGb0dZwJoZtAxfw3wrYNYDjew0QUxw1kNUCM/wbCdAU6ApHqOwMZISkDBddMCR5jkLWwSClZNMdtiBpN2oBY6QBsxCmEr0ELX6HI5YI3PKGbcdHhONEBB/YYocPMFzGlKxyEdGwnUX9abozKH2JrZYJjMhGgZwrwwkoIaxpZdsApRW5kjg5j+3kag1nnLAs5YbFm3X3hyOTredM5pujKGdquGP+HGj5CytEAJiWDSJ4IQKsYboSAW5JzoFvaJWhPCdrWKcoTDBDS7ai3PRSHmr8QHkrZvs1KEvcVINnBQwre8MF113znsHKWJCcCT3xpXMbp2lAUkJrV84CVN9qEqNkiZQer/7se2TSK34iWCYoOsqQ3DKiDG0VSDB2jUiGGN3xIaLXHwp1yafDETndKEoDAktUkQkMCnnHe9dtinhDZOmZGbO1jPWl5GQIzKr05Q9lUdvmKaFgOj+fnKzBq+R0Cr0M/I5eXODqevF79GK53hkEM9AEM4WZEbjGcGwEwBiB/zEHnjx3ZQ4GQM+B3ffMumdIgayT6jFbslXBHd0agWOMJ431r7M+MN0O657bc1LKy4bKOjjBSXn9czZ5vMI3/s33u0/ur+1oOlxfAI340Zf5myBaY7WH+yeI7sobOH4P0ZZOtH0uooc9ZemAZZRHo+qyx60whWWJw5omSJkOK+xzSujunhvmJZDmD7VvUpFi7q2dsJr4KNKujprA+RJixJ6qt3oiFKL7Sr/EKEohw+vuEvrIFxGmBPPFtXn27f4HSrooyYqGSMxSL35/c2QdOGo40BzVWthv+/XysPSL5un1oapDEcsRfaAtZvfSB28rs7jVTqqMl2uqSczTJfnt6s73Ds4X13+d7jRH5oGjI7rjGYc7ZVhRDSjPokxHU+ZnfsRTkuZVaR5xwHxEUU7Ysufl513QjOWD5jlm79/oXeqkxcb1nllsvJcXG26279JNitt/LJyrPw==&lt;/diagram&gt;&lt;/mxfile&gt;"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg718"
+   sodipodi:docname="von_neumann.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="Von_Neumann_Architecture.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview720"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5068493"
+     inkscape:cx="180.17727"
+     inkscape:cy="112.15455"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1432"
+     inkscape:window-y="124"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g716" />
+  <defs
+     id="defs642" />
+  <g
+     id="g716">
+    <rect
+       x="175"
+       y="1"
+       width="150"
+       height="80"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-dasharray="6 6"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect644" />
+    <rect
+       x="175"
+       y="1"
+       width="150"
+       height="80"
+       fill="#f5f5f5"
+       stroke="#666666"
+       stroke-width="2"
+       stroke-dasharray="6 6"
+       pointer-events="none"
+       id="rect646" />
+    <g
+       transform="translate(178.49091,-25.027273)"
+       id="g652">
+      <switch
+         id="switch650">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="145"
+           height="70"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 145px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Von Neumennova architektura<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="73"
+           y="45"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="20px"
+           font-family="Helvetica"
+           id="text648"><tspan
+             sodipodi:role="line"
+             id="tspan722"
+             x="73"
+             y="45">Von</tspan><tspan
+             sodipodi:role="line"
+             x="73"
+             y="70"
+             id="tspan726">Neumennova</tspan><tspan
+             sodipodi:role="line"
+             id="tspan724"
+             x="73"
+             y="95">architektura</tspan></text>
+      </switch>
+    </g>
+    <rect
+       x="167"
+       y="125"
+       width="170"
+       height="146"
+       fill="#000000"
+       stroke="#000000"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect654" />
+    <rect
+       x="167.02209"
+       y="111.74937"
+       width="169.95581"
+       height="159.22855"
+       fill="#f5f5f5"
+       stroke="#666666"
+       pointer-events="none"
+       id="rect656"
+       style="stroke-width:1.04419" />
+    <g
+       transform="translate(279.08248,242.37207)"
+       id="g672-4-6">
+      <switch
+         id="switch670-8-2">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="54"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 55px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Paměť<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="27"
+           y="19"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text668-0-9">CPU</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(207.5,134.5)"
+       id="g662">
+      <switch
+         id="switch660">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="88"
+           height="126"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 89px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;"><xhtml:br />
+<xhtml:br />
+<xhtml:br />
+<xhtml:br />
+<xhtml:br />
+
+
+          CPU<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="44"
+           y="72"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text658" />
+      </switch>
+    </g>
+    <rect
+       x="0"
+       y="156"
+       width="120"
+       height="84"
+       fill="#000000"
+       stroke="#000000"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect664" />
+    <rect
+       x="0"
+       y="156"
+       width="120"
+       height="84"
+       fill="#f5f5f5"
+       stroke="#666666"
+       pointer-events="none"
+       id="rect666" />
+    <g
+       transform="translate(32.5,188.5)"
+       id="g672">
+      <switch
+         id="switch670">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="54"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 55px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Paměť<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="27"
+           y="19"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text668">Paměť</text>
+      </switch>
+    </g>
+    <rect
+       x="184"
+       y="311"
+       width="145"
+       height="50"
+       fill="#000000"
+       stroke="#000000"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect674" />
+    <rect
+       x="184"
+       y="311"
+       width="145"
+       height="50"
+       fill="#f5f5f5"
+       stroke="#666666"
+       pointer-events="none"
+       id="rect676" />
+    <g
+       transform="translate(202.5,326.5)"
+       id="g682">
+      <switch
+         id="switch680">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="107"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 108px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Vstup/Výstup</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="54"
+           y="19"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text678">Vstup/Výstup</text>
+      </switch>
+    </g>
+    <rect
+       x="180"
+       y="208"
+       width="141"
+       height="20"
+       fill="#000000"
+       stroke="#000000"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect684" />
+    <rect
+       x="180"
+       y="208"
+       width="141"
+       height="20"
+       fill="#f5f5f5"
+       stroke="#666666"
+       pointer-events="none"
+       id="rect686" />
+    <g
+       transform="translate(232.5,206.50909)"
+       id="g692">
+      <switch
+         id="switch690">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="35"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 36px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">ALU</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="18"
+           y="19"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text688">ALU</text>
+      </switch>
+    </g>
+    <path
+       d="M 252 304.63 L 252 277.37"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path694" />
+    <path
+       d="M 252 309.88 L 248.5 302.88 L 252 304.63 L 255.5 302.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path696" />
+    <path
+       d="M 252 272.12 L 255.5 279.12 L 252 277.37 L 248.5 279.12 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path698" />
+    <path
+       d="M 126.37 198 L 160.63 198"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path700" />
+    <path
+       d="M 121.12 198 L 128.12 194.5 L 126.37 198 L 128.12 201.5 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path702" />
+    <path
+       d="M 165.88 198 L 158.88 201.5 L 160.63 198 L 158.88 194.5 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path704" />
+    <rect
+       x="180"
+       y="138"
+       width="141"
+       height="60"
+       fill="#000000"
+       stroke="#000000"
+       transform="translate(2,3)"
+       opacity="0.25"
+       id="rect706" />
+    <rect
+       x="180.05194"
+       y="124.77922"
+       width="140.8961"
+       height="73.168831"
+       fill="#f5f5f5"
+       stroke="#666666"
+       pointer-events="none"
+       id="rect708"
+       style="stroke-width:1.10389" />
+    <g
+       transform="translate(221.34612,148.79934)"
+       id="g672-4">
+      <switch
+         id="switch670-8">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="54"
+           height="19"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 55px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Paměť<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="30.981817"
+           y="-3.5636363"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text668-0"><tspan
+             sodipodi:role="line"
+             id="tspan873"
+             x="30.981817"
+             y="-3.5636363">Řídící</tspan><tspan
+             sodipodi:role="line"
+             id="tspan875"
+             x="30.981817"
+             y="18.936363">jednotka</tspan><tspan
+             sodipodi:role="line"
+             x="30.981817"
+             y="41.436363"
+             id="tspan877">(ControlUnit)</tspan></text>
+      </switch>
+    </g>
+    <g
+       transform="translate(181.5,136.5)"
+       id="g714">
+      <switch
+         id="switch712">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="137"
+           height="62"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Kontrolní jednotka<xhtml:br />
+
+
+(Control Unit)<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="69"
+           y="40"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="18px"
+           font-family="Helvetica"
+           id="text710" />
+      </switch>
+    </g>
+  </g>
+</svg>
